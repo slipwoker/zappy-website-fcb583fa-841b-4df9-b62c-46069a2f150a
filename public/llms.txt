@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# י.ז.ן עבדות מסגרות בעם — Generative Engine Optimization Map
+
+> A metal fabrication business specializing in manufacturing and producing custom iron cabinets and metal storage solutions. The business focuses on metalworking craftsmanship and industrial-grade cabinet production.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://yzan-avdut-misgarot-baam.zappy5.app
 מתמחים בייצור ארונות ברזל לאתרי בנייה ופתרונות אחסון מתכת תעשייתיים. איכות מעולה, עמידות לשנים וביצוע מהיר לחברות בנייה בכל הארץ.
 
 ### יכולות
-https://example.com/capabilities
+https://yzan-avdut-misgarot-baam.zappy5.app/capabilities
 יכולות ייצור מתקדמות בעיבוד מסגרות ברזל תעשייתי: ריתוך מקצועי, חיתוך דיוק וכיפוף מתכת. טכנולוגיה מובילה לפרויקטים תעשייתיים מורכבים.
 
 ### ארונות ופתרונות
-https://example.com/solutions
+https://yzan-avdut-misgarot-baam.zappy5.app/solutions
 פתרונות אחסון ברזל מותאמים אישית לאתרי בנייה ומפעלים. ארונות חזקים ועמידים בכל מידה, מעוצבים לפי הצרכים הייחודיים של העסק שלכם.
 
 ### צור קשר
-https://example.com/contact
+https://yzan-avdut-misgarot-baam.zappy5.app/contact
 מוכנים להתחיל? צרו קשר עכשיו לייעוץ חינם וקבלת הצעת מחיר לייצור ארונות ברזל ופתרונות מסגרות. שירות מהיר, מקצועי ואמין לחברות בנייה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://yzan-avdut-misgarot-baam.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://yzan-avdut-misgarot-baam.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://yzan-avdut-misgarot-baam.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About י.ז.ן עבדות מסגרות בעם
+A metal fabrication business specializing in manufacturing and producing custom iron cabinets and metal storage solutions. The business focuses on metalworking craftsmanship and industrial-grade cabinet production.
+
+## Target Audience
+- חברות בנייה
+
+## Industry
+ייצור ועיבוד מתכת
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://yzan-avdut-misgarot-baam.zappy5.app/sitemap.xml
+- **Robots.txt**: https://yzan-avdut-misgarot-baam.zappy5.app/robots.txt
